@@ -1,0 +1,1636 @@
+{
+	"frontCategoryList": [
+		{
+			"bannerImageSrc": "iqmfbh3y97_244_100.jpg",
+			"brandList": [
+				{
+					"logoPic": "id2q3etz98.jpg",
+					"name": "MICHAEL KORS 迈克高仕"
+				}, {
+					"logoPic": "id1tosf320.jpg",
+					"name": "COACH 蔻驰"
+				}, {
+					"logoPic": "id2fm4ms50.jpg",
+					"name": "FURLA 芙拉"
+				}, {
+					"logoPic": "ii8tv4yk15_120_120.jpg",
+					"name": "BURBERRY 博柏利"
+				}, {
+					"logoPic": "id2pp8658.jpg",
+					"name": "Salvatore Ferragamo 菲拉格慕"
+				}, {
+					"logoPic": "ibxec5al87.jpg",
+					"name": "BOTTEGA VENETA 葆蝶家"
+				}
+			],
+			"categoryName": "轻奢",
+			"childrenNode": [
+				{
+					"categoryName": "轻奢包袋",
+					"childrenNodeList": [
+						{
+							"categoryName": "MICHAEL KORS 迈克高仕"
+						}, {
+							"categoryName": "FURLA 芙拉"
+						}, {
+							"categoryName": "COACH 蔻驰"
+						}, {
+							"categoryName": "COCCINELLE"
+						}, {
+							"categoryName": "PINKO 品高"
+						}, {
+							"categoryName": "LONGCHAMP 珑骧"
+						}, {
+							"categoryName": "MARC JACOBS 马克雅克布"
+						}, {
+							"categoryName": "Kate Spade"
+						}, {
+							"categoryName": "Rebecca Minkoff"
+						}, {
+							"categoryName": "Tory Burch"
+						}
+					]
+				}, {
+					"categoryName": "重奢名包",
+					"childrenNodeList": [
+						{
+							"categoryName": "GUCCI 古驰"
+						}, {
+							"categoryName": "BURBERRY 博柏利"
+						}, {
+							"categoryName": "FENDI 芬迪"
+						}, {
+							"categoryName": "PRADA 普拉达"
+						}, {
+							"categoryName": "CÉLINE 思琳"
+						}, {
+							"categoryName": "SAINT LAURENT PARIS "
+						}, {
+							"categoryName": "Chloé 蔻依"
+						}, {
+							"categoryName": "D&G 杜嘉班纳"
+						}, {
+							"categoryName": "MARNI 玛尼"
+						}
+					]
+				}, {
+					"categoryName": "服饰鞋靴",
+					"childrenNodeList": [{
+							"categoryName": "KENZO 高田贤三"
+						}, {
+							"categoryName": "VERSACE 范思哲"
+						}, {
+							"categoryName": "BURBERRY 博柏利"
+						}, {
+							"categoryName": "MOSCHINO 莫斯奇诺"
+						}, {
+							"categoryName": "McQ 麦蔻"
+						}, {
+							"categoryName": "GUCCI 古驰"
+						}, {
+							"categoryName": "HUGO BOSS"
+						}
+					]
+				}, {
+					"categoryName": "功能箱包",
+					"childrenNodeList": [
+						{
+							"categoryName": "Samsonite 新秀丽"
+						}, {
+							"categoryName": "RIMOWA"
+						}, {
+							"categoryName": "旅行大师"
+						}, {
+							"categoryName": "TUMI 途明"
+						}
+					]
+				}, {
+					"categoryName": "腰带专区",
+					"childrenNodeList": [
+						{
+							"categoryName": "GUCCI 古驰"
+						}, {
+							"categoryName": " Ferragamo 菲拉格慕"
+						}, {
+							"categoryName": "MONTBLANC 万宝龙"
+						}, {
+							"categoryName": " Zegna 杰尼亚"
+						}, {
+							"categoryName": "COACH 蔻驰"
+						}, {
+							"categoryName": "VERSACE 范思哲"
+						}
+					]
+				}
+			]
+		},{
+			"bannerImageSrc": "iqrh4xrm15_244_100.jpg",
+			"brandList": [
+				{
+					"brandId": 1,
+					"logoPic": "1bteeon4j97_120_120.jpg",
+					"name": "Puritan's Pride 普丽普莱"
+				}, {
+					"brandId": 2,
+					"logoPic": "1ceqdbo4i20_120_120.jpg",
+					"name": "BLACKMORES 澳佳宝"
+				}, {
+					"brandId": 3,
+					"logoPic": "id59v9wn8.jpg",
+					"name": "Healthy Care"
+				}, {
+					"brandId": 4,
+					"logoPic": "ii7ckoej83_120_120.jpg",
+					"name": "Schiff"
+				}, {
+					"brandId": 5,
+					"logoPic": "ii7faa9k34_120_120.jpg",
+					"name": "Centrum 善存"
+				},{
+					"brandId": 6,
+					"logoPic": "ifzfvi7613_120_120.jpg",
+					"name": "Salus 莎露斯"
+				}
+			],
+			"categoryId": 1,
+			"categoryName": "营养保健",
+			"childrenNode": [
+				{
+					"categoryName": "男士必备",
+					"childrenNodeList": [
+						{
+							"categoryName": "增肌粉"
+						},{
+							"categoryName": "番茄红素"
+						}, {
+							"categoryName": "玛咖"
+						}, {
+							"categoryName": "护肝片"
+						}, {
+							"categoryName": "叶黄素"
+						}, {
+							"categoryName": "复合维矿"
+						}, {
+							"categoryName": "提高精力"
+						}, {
+							"categoryName": "缓解疲劳"
+						}, {
+							"categoryName": "解酒护肝"
+						}, {
+							"categoryName": "改善视力"
+						}, {
+							"categoryName": "舒缓压力"
+						}, {
+							"categoryName": "男士备孕"
+						}, {
+							"categoryName": "关节养护"
+						}, {
+							"categoryName": "清肺润喉"
+						}, {
+							"categoryName": "护发防脱"
+						}
+					]
+				},{
+					"categoryName": "关爱爸妈",
+					"childrenNodeList": [
+						{
+							"categoryName": "钙片"
+						}, {
+							"categoryName": "维骨力"
+						}, {
+							"categoryName": "鱼油/卵磷脂"
+						}, {
+							"categoryName": "辅酶Q10"
+						}, {
+							"categoryName": "参类滋补"
+						}, {
+							"categoryName": "银杏"
+						}, {
+							"categoryName": "蛋白粉"
+						}, {
+							"categoryName": "蜂胶"
+						}, {
+							"categoryName": "骨骼关节"
+						}, {
+							"categoryName": "风湿骨痛"
+						}, {
+							"categoryName": "心脑健康"
+						}, {
+							"categoryName": "血脂血压"
+						}, {
+							"categoryName": "调理肠胃"
+						}, {
+							"categoryName": "改善睡眠"
+						}, {
+							"categoryName": "调节免疫"
+						}, {
+							"categoryName": "改善记忆"
+						}
+					]
+				},{
+					"categoryName": "滋补养生",
+					"childrenNodeList": [
+						{    
+							"categoryName": "参类"
+						}, {
+							"categoryName": "蜂蜜"
+						}, {
+							"categoryName": "黑糖/红糖"
+						}, {
+							"categoryName": "养生茶"
+						}, {
+							"categoryName": "灵芝/石斛"
+						}, {
+							"categoryName": "滋补膏方"
+						}, {
+							"categoryName": "燕窝"
+						}, {
+							"categoryName": "枸杞/黑枸杞"
+						}, {
+							"categoryName": "阿胶"
+						}, {
+							"categoryName": "润肺养胃"
+						}, {
+							"categoryName": "补肾明目"
+						}, {
+							"categoryName": "美容养颜"
+						}, {
+							"categoryName": "提神醒脑"
+						}, {
+							"categoryName": "滋阴调胃"
+						}, {
+							"categoryName": "补血调经"
+						}
+					]
+				},{
+					"categoryName": "运动营养",
+					"childrenNodeList": [
+						{    
+							"categoryName": "纤体代餐/减脂瘦身"
+						}, {
+							"categoryName": "健身增肌"
+						}, {
+							"categoryName": "补充能量"
+						}, {
+							"categoryName": "提高耐力"
+						}, {
+							"categoryName": "训练恢复"
+						}, {
+							"categoryName": "滋补膏方"
+						}, {
+							"categoryName": "关节养护"
+						}
+					]
+				},{
+					"categoryName": "日常护理",
+					"childrenNodeList": [
+						{    
+							"categoryName": "眼部护理"
+						}, {
+							"categoryName": "鼻部护理"
+						}, {
+							"categoryName": "口腔护理"
+						}, {
+							"categoryName": "血压计"
+						}, {
+							"categoryName": "体温计"
+						}, {
+							"categoryName": "保健仪器"
+						}, {
+							"categoryName": "损伤护理"
+						}
+					]
+				}
+			]
+		},{
+			"bannerImageSrc": "iqmfaswb6_244_100.jpg",
+			"brandList": [
+				{
+					"brandId": 1,
+					"logoPic": "ii741aro99_120_120.jpg",
+					"name": "DEVONDALE 德运"
+				}, {
+					"brandId": 2,
+					"logoPic": "ii71r07a69_120_120.jpg",
+					"name": "ucc 悠诗诗"
+				}, {
+					"brandId": 3,
+					"logoPic": "ik69djvv98_120_120.jpg",
+					"name": "GILIM"
+				}, {
+					"brandId": 4,
+					"logoPic": "ii71rilz17_120_120.jpg",
+					"name": "马玉山"
+				}, {
+					"brandId": 5,
+					"logoPic": "id1sb1iq81.jpg",
+					"name": "illy 意利"
+				}, {
+					"brandId": 6,
+					"logoPic": "iiflp05q79_120_120.jpg",
+					"name": "OWL 猫头鹰"
+				}
+			],
+			"categoryName": "环球美食",
+			"childrenNode": [
+				{
+					"categoryName": "乳品/咖啡/麦片/冲饮",
+					"childrenNodeList": [
+						{
+							"categoryName": "成人奶粉"
+						}, {
+							"categoryName": "奶片"
+						}, {
+							"categoryName": "进口牛奶"
+						}, {
+							"categoryName": "酸奶"
+						}, {
+							"categoryName": "其他乳品"
+						}, {
+							"categoryName": "麦片"
+						}, {
+							"categoryName": "五谷冲饮"
+						}, {
+							"categoryName": "热可可"
+						}, {
+							"categoryName": "其他冲饮"
+						}, {
+							"categoryName": "速溶咖啡"
+						}, {
+							"categoryName": "咖啡粉"
+						}, {
+							"categoryName": "咖啡豆"
+						}, {
+							"categoryName": "胶囊咖啡"
+						}, {
+							"categoryName": "咖啡伴侣"
+						}
+					]
+				}, {
+					"categoryName": "人气热门",
+					"childrenNodeList": [
+						{
+							"categoryName": "德运"
+						}, {
+							"categoryName": "丸太拉面"
+						}, {
+							"categoryName": "UCC咖啡"
+						}, {
+							"categoryName": "轩尼诗"
+						}, {
+							"categoryName": "成人奶粉"
+						}, {
+							"categoryName": "可乐"
+						}, {
+							"categoryName": "早餐麦片"
+						}, {
+							"categoryName": "歌帝梵"
+						}, {
+							"categoryName": "卡乐比"
+						}, {
+							"categoryName": "巴黎水"
+						}
+					]
+				}, {
+					"categoryName": "休闲零食",
+					"childrenNodeList": [
+						{
+							"categoryName": "饼干糕点"
+						}, {
+							"categoryName": "坚果"
+						}, {
+							"categoryName": "糕点"
+						}, {
+							"categoryName": "蜜饯果干"
+						}, {
+							"categoryName": "糖果巧克力"
+						}, {
+							"categoryName": "口香糖"
+						}, {
+							"categoryName": "薯片/膨化"
+						}, {
+							"categoryName": "海产品"
+						}, {
+							"categoryName": "果冻布丁"
+						}, {
+							"categoryName": "肉脯干"
+						}, {
+							"categoryName": "其他零食"
+						}
+					]
+				}, {
+					"categoryName": "茶/酒/饮料",
+					"childrenNodeList": [{
+							"categoryName": "葡萄酒"
+						}, {
+							"categoryName": "洋酒"
+						}, {
+							"categoryName": "白酒"
+						}, {
+							"categoryName": "啤酒"
+						}, {
+							"categoryName": "黄酒"
+						}, {
+							"categoryName": "品质水饮"
+						}, {
+							"categoryName": "饮料"
+						}, {
+							"categoryName": "碳酸饮料"
+						}, {
+							"categoryName": "果蔬汁"
+						}, {
+							"categoryName": "花草茶"
+						}, {
+							"categoryName": "茶饮"
+						}, {
+							"categoryName": "果酒"
+						}
+					]
+				}, {
+					"categoryName": "水果生鲜",
+					"childrenNodeList": [
+						{
+							"categoryName": "新鲜水果"
+						}, {
+							"categoryName": "肉品禽蛋"
+						}, {
+							"categoryName": "水产生鲜"
+						}, {
+							"categoryName": "速冻水产"
+						}, {
+							"categoryName": "牛油果"
+						}, {
+							"categoryName": "苹果"
+						}, {
+							"categoryName": "蔬菜"
+						}, {
+							"categoryName": "车厘子"
+						}, {
+							"categoryName": "牛排"
+						}, {
+							"categoryName": "三文鱼"
+						}, {
+							"categoryName": "橙子"
+						}, {
+							"categoryName": "火锅食材"
+						}
+					]
+				}, {
+					"categoryName": "粮油副食",
+					"childrenNodeList": [
+						{
+							"categoryName": "调味品/料理"
+						}, {
+							"categoryName": "果酱/酱料"
+						}, {
+							"categoryName": "食用油/橄榄油"
+						}, {
+							"categoryName": "泡面"
+						}, {
+							"categoryName": "方便速食"
+						}, {
+							"categoryName": "罐头"
+						}, {
+							"categoryName": "方便菜"
+						}, {
+							"categoryName": "米面杂粮"
+						}, {
+							"categoryName": "南北干货"
+						}, {
+							"categoryName": "端午粽子"
+						}
+					]
+				}
+			]
+		},
+		{
+			"bannerImageSrc": "iqmfbh3y97_244_100.jpg",
+			"brandList": [
+				{
+					"logoPic": "id2q3etz98.jpg",
+					"name": "MICHAEL KORS 迈克高仕"
+				}, {
+					"logoPic": "id1tosf320.jpg",
+					"name": "COACH 蔻驰"
+				}, {
+					"logoPic": "id2fm4ms50.jpg",
+					"name": "FURLA 芙拉"
+				}, {
+					"logoPic": "ii8tv4yk15_120_120.jpg",
+					"name": "BURBERRY 博柏利"
+				}, {
+					"logoPic": "id2pp8658.jpg",
+					"name": "Salvatore Ferragamo 菲拉格慕"
+				}, {
+					"logoPic": "ibxec5al87.jpg",
+					"name": "BOTTEGA VENETA 葆蝶家"
+				}
+			],
+			"categoryName": "轻奢",
+			"childrenNode": [
+				{
+					"categoryName": "轻奢包袋",
+					"childrenNodeList": [
+						{
+							"categoryName": "MICHAEL KORS 迈克高仕"
+						}, {
+							"categoryName": "FURLA 芙拉"
+						}, {
+							"categoryName": "COACH 蔻驰"
+						}, {
+							"categoryName": "COCCINELLE"
+						}, {
+							"categoryName": "PINKO 品高"
+						}, {
+							"categoryName": "LONGCHAMP 珑骧"
+						}, {
+							"categoryName": "MARC JACOBS 马克雅克布"
+						}, {
+							"categoryName": "Kate Spade"
+						}, {
+							"categoryName": "Rebecca Minkoff"
+						}, {
+							"categoryName": "Tory Burch"
+						}
+					]
+				}, {
+					"categoryName": "重奢名包",
+					"childrenNodeList": [
+						{
+							"categoryName": "GUCCI 古驰"
+						}, {
+							"categoryName": "BURBERRY 博柏利"
+						}, {
+							"categoryName": "FENDI 芬迪"
+						}, {
+							"categoryName": "PRADA 普拉达"
+						}, {
+							"categoryName": "CÉLINE 思琳"
+						}, {
+							"categoryName": "SAINT LAURENT PARIS "
+						}, {
+							"categoryName": "Chloé 蔻依"
+						}, {
+							"categoryName": "D&G 杜嘉班纳"
+						}, {
+							"categoryName": "MARNI 玛尼"
+						}
+					]
+				}, {
+					"categoryName": "服饰鞋靴",
+					"childrenNodeList": [{
+							"categoryName": "KENZO 高田贤三"
+						}, {
+							"categoryName": "VERSACE 范思哲"
+						}, {
+							"categoryName": "BURBERRY 博柏利"
+						}, {
+							"categoryName": "MOSCHINO 莫斯奇诺"
+						}, {
+							"categoryName": "McQ 麦蔻"
+						}, {
+							"categoryName": "GUCCI 古驰"
+						}, {
+							"categoryName": "HUGO BOSS"
+						}
+					]
+				}, {
+					"categoryName": "功能箱包",
+					"childrenNodeList": [
+						{
+							"categoryName": "Samsonite 新秀丽"
+						}, {
+							"categoryName": "RIMOWA"
+						}, {
+							"categoryName": "旅行大师"
+						}, {
+							"categoryName": "TUMI 途明"
+						}
+					]
+				}, {
+					"categoryName": "腰带专区",
+					"childrenNodeList": [
+						{
+							"categoryName": "GUCCI 古驰"
+						}, {
+							"categoryName": " Ferragamo 菲拉格慕"
+						}, {
+							"categoryName": "MONTBLANC 万宝龙"
+						}, {
+							"categoryName": " Zegna 杰尼亚"
+						}, {
+							"categoryName": "COACH 蔻驰"
+						}, {
+							"categoryName": "VERSACE 范思哲"
+						}
+					]
+				}
+			]
+		},{
+			"bannerImageSrc": "iqrh4xrm15_244_100.jpg",
+			"brandList": [
+				{
+					"brandId": 1,
+					"logoPic": "1bteeon4j97_120_120.jpg",
+					"name": "Puritan's Pride 普丽普莱"
+				}, {
+					"brandId": 2,
+					"logoPic": "1ceqdbo4i20_120_120.jpg",
+					"name": "BLACKMORES 澳佳宝"
+				}, {
+					"brandId": 3,
+					"logoPic": "id59v9wn8.jpg",
+					"name": "Healthy Care"
+				}, {
+					"brandId": 4,
+					"logoPic": "ii7ckoej83_120_120.jpg",
+					"name": "Schiff"
+				}, {
+					"brandId": 5,
+					"logoPic": "ii7faa9k34_120_120.jpg",
+					"name": "Centrum 善存"
+				},{
+					"brandId": 6,
+					"logoPic": "ifzfvi7613_120_120.jpg",
+					"name": "Salus 莎露斯"
+				}
+			],
+			"categoryId": 1,
+			"categoryName": "营养保健",
+			"childrenNode": [
+				{
+					"categoryName": "男士必备",
+					"childrenNodeList": [
+						{
+							"categoryName": "增肌粉"
+						},{
+							"categoryName": "番茄红素"
+						}, {
+							"categoryName": "玛咖"
+						}, {
+							"categoryName": "护肝片"
+						}, {
+							"categoryName": "叶黄素"
+						}, {
+							"categoryName": "复合维矿"
+						}, {
+							"categoryName": "提高精力"
+						}, {
+							"categoryName": "缓解疲劳"
+						}, {
+							"categoryName": "解酒护肝"
+						}, {
+							"categoryName": "改善视力"
+						}, {
+							"categoryName": "舒缓压力"
+						}, {
+							"categoryName": "男士备孕"
+						}, {
+							"categoryName": "关节养护"
+						}, {
+							"categoryName": "清肺润喉"
+						}, {
+							"categoryName": "护发防脱"
+						}
+					]
+				},{
+					"categoryName": "关爱爸妈",
+					"childrenNodeList": [
+						{
+							"categoryName": "钙片"
+						}, {
+							"categoryName": "维骨力"
+						}, {
+							"categoryName": "鱼油/卵磷脂"
+						}, {
+							"categoryName": "辅酶Q10"
+						}, {
+							"categoryName": "参类滋补"
+						}, {
+							"categoryName": "银杏"
+						}, {
+							"categoryName": "蛋白粉"
+						}, {
+							"categoryName": "蜂胶"
+						}, {
+							"categoryName": "骨骼关节"
+						}, {
+							"categoryName": "风湿骨痛"
+						}, {
+							"categoryName": "心脑健康"
+						}, {
+							"categoryName": "血脂血压"
+						}, {
+							"categoryName": "调理肠胃"
+						}, {
+							"categoryName": "改善睡眠"
+						}, {
+							"categoryName": "调节免疫"
+						}, {
+							"categoryName": "改善记忆"
+						}
+					]
+				},{
+					"categoryName": "滋补养生",
+					"childrenNodeList": [
+						{    
+							"categoryName": "参类"
+						}, {
+							"categoryName": "蜂蜜"
+						}, {
+							"categoryName": "黑糖/红糖"
+						}, {
+							"categoryName": "养生茶"
+						}, {
+							"categoryName": "灵芝/石斛"
+						}, {
+							"categoryName": "滋补膏方"
+						}, {
+							"categoryName": "燕窝"
+						}, {
+							"categoryName": "枸杞/黑枸杞"
+						}, {
+							"categoryName": "阿胶"
+						}, {
+							"categoryName": "润肺养胃"
+						}, {
+							"categoryName": "补肾明目"
+						}, {
+							"categoryName": "美容养颜"
+						}, {
+							"categoryName": "提神醒脑"
+						}, {
+							"categoryName": "滋阴调胃"
+						}, {
+							"categoryName": "补血调经"
+						}
+					]
+				},{
+					"categoryName": "运动营养",
+					"childrenNodeList": [
+						{    
+							"categoryName": "纤体代餐/减脂瘦身"
+						}, {
+							"categoryName": "健身增肌"
+						}, {
+							"categoryName": "补充能量"
+						}, {
+							"categoryName": "提高耐力"
+						}, {
+							"categoryName": "训练恢复"
+						}, {
+							"categoryName": "滋补膏方"
+						}, {
+							"categoryName": "关节养护"
+						}
+					]
+				},{
+					"categoryName": "日常护理",
+					"childrenNodeList": [
+						{    
+							"categoryName": "眼部护理"
+						}, {
+							"categoryName": "鼻部护理"
+						}, {
+							"categoryName": "口腔护理"
+						}, {
+							"categoryName": "血压计"
+						}, {
+							"categoryName": "体温计"
+						}, {
+							"categoryName": "保健仪器"
+						}, {
+							"categoryName": "损伤护理"
+						}
+					]
+				}
+			]
+		},{
+			"bannerImageSrc": "iqmfaswb6_244_100.jpg",
+			"brandList": [
+				{
+					"brandId": 1,
+					"logoPic": "ii741aro99_120_120.jpg",
+					"name": "DEVONDALE 德运"
+				}, {
+					"brandId": 2,
+					"logoPic": "ii71r07a69_120_120.jpg",
+					"name": "ucc 悠诗诗"
+				}, {
+					"brandId": 3,
+					"logoPic": "ik69djvv98_120_120.jpg",
+					"name": "GILIM"
+				}, {
+					"brandId": 4,
+					"logoPic": "ii71rilz17_120_120.jpg",
+					"name": "马玉山"
+				}, {
+					"brandId": 5,
+					"logoPic": "id1sb1iq81.jpg",
+					"name": "illy 意利"
+				}, {
+					"brandId": 6,
+					"logoPic": "iiflp05q79_120_120.jpg",
+					"name": "OWL 猫头鹰"
+				}
+			],
+			"categoryName": "环球美食",
+			"childrenNode": [
+				{
+					"categoryName": "乳品/咖啡/麦片/冲饮",
+					"childrenNodeList": [
+						{
+							"categoryName": "成人奶粉"
+						}, {
+							"categoryName": "奶片"
+						}, {
+							"categoryName": "进口牛奶"
+						}, {
+							"categoryName": "酸奶"
+						}, {
+							"categoryName": "其他乳品"
+						}, {
+							"categoryName": "麦片"
+						}, {
+							"categoryName": "五谷冲饮"
+						}, {
+							"categoryName": "热可可"
+						}, {
+							"categoryName": "其他冲饮"
+						}, {
+							"categoryName": "速溶咖啡"
+						}, {
+							"categoryName": "咖啡粉"
+						}, {
+							"categoryName": "咖啡豆"
+						}, {
+							"categoryName": "胶囊咖啡"
+						}, {
+							"categoryName": "咖啡伴侣"
+						}
+					]
+				}, {
+					"categoryName": "人气热门",
+					"childrenNodeList": [
+						{
+							"categoryName": "德运"
+						}, {
+							"categoryName": "丸太拉面"
+						}, {
+							"categoryName": "UCC咖啡"
+						}, {
+							"categoryName": "轩尼诗"
+						}, {
+							"categoryName": "成人奶粉"
+						}, {
+							"categoryName": "可乐"
+						}, {
+							"categoryName": "早餐麦片"
+						}, {
+							"categoryName": "歌帝梵"
+						}, {
+							"categoryName": "卡乐比"
+						}, {
+							"categoryName": "巴黎水"
+						}
+					]
+				}, {
+					"categoryName": "休闲零食",
+					"childrenNodeList": [
+						{
+							"categoryName": "饼干糕点"
+						}, {
+							"categoryName": "坚果"
+						}, {
+							"categoryName": "糕点"
+						}, {
+							"categoryName": "蜜饯果干"
+						}, {
+							"categoryName": "糖果巧克力"
+						}, {
+							"categoryName": "口香糖"
+						}, {
+							"categoryName": "薯片/膨化"
+						}, {
+							"categoryName": "海产品"
+						}, {
+							"categoryName": "果冻布丁"
+						}, {
+							"categoryName": "肉脯干"
+						}, {
+							"categoryName": "其他零食"
+						}
+					]
+				}, {
+					"categoryName": "茶/酒/饮料",
+					"childrenNodeList": [{
+							"categoryName": "葡萄酒"
+						}, {
+							"categoryName": "洋酒"
+						}, {
+							"categoryName": "白酒"
+						}, {
+							"categoryName": "啤酒"
+						}, {
+							"categoryName": "黄酒"
+						}, {
+							"categoryName": "品质水饮"
+						}, {
+							"categoryName": "饮料"
+						}, {
+							"categoryName": "碳酸饮料"
+						}, {
+							"categoryName": "果蔬汁"
+						}, {
+							"categoryName": "花草茶"
+						}, {
+							"categoryName": "茶饮"
+						}, {
+							"categoryName": "果酒"
+						}
+					]
+				}, {
+					"categoryName": "水果生鲜",
+					"childrenNodeList": [
+						{
+							"categoryName": "新鲜水果"
+						}, {
+							"categoryName": "肉品禽蛋"
+						}, {
+							"categoryName": "水产生鲜"
+						}, {
+							"categoryName": "速冻水产"
+						}, {
+							"categoryName": "牛油果"
+						}, {
+							"categoryName": "苹果"
+						}, {
+							"categoryName": "蔬菜"
+						}, {
+							"categoryName": "车厘子"
+						}, {
+							"categoryName": "牛排"
+						}, {
+							"categoryName": "三文鱼"
+						}, {
+							"categoryName": "橙子"
+						}, {
+							"categoryName": "火锅食材"
+						}
+					]
+				}, {
+					"categoryName": "粮油副食",
+					"childrenNodeList": [
+						{
+							"categoryName": "调味品/料理"
+						}, {
+							"categoryName": "果酱/酱料"
+						}, {
+							"categoryName": "食用油/橄榄油"
+						}, {
+							"categoryName": "泡面"
+						}, {
+							"categoryName": "方便速食"
+						}, {
+							"categoryName": "罐头"
+						}, {
+							"categoryName": "方便菜"
+						}, {
+							"categoryName": "米面杂粮"
+						}, {
+							"categoryName": "南北干货"
+						}, {
+							"categoryName": "端午粽子"
+						}
+					]
+				}
+			]
+		},
+		{
+			"bannerImageSrc": "iqmfbh3y97_244_100.jpg",
+			"brandList": [
+				{
+					"logoPic": "id2q3etz98.jpg",
+					"name": "MICHAEL KORS 迈克高仕"
+				}, {
+					"logoPic": "id1tosf320.jpg",
+					"name": "COACH 蔻驰"
+				}, {
+					"logoPic": "id2fm4ms50.jpg",
+					"name": "FURLA 芙拉"
+				}, {
+					"logoPic": "ii8tv4yk15_120_120.jpg",
+					"name": "BURBERRY 博柏利"
+				}, {
+					"logoPic": "id2pp8658.jpg",
+					"name": "Salvatore Ferragamo 菲拉格慕"
+				}, {
+					"logoPic": "ibxec5al87.jpg",
+					"name": "BOTTEGA VENETA 葆蝶家"
+				}
+			],
+			"categoryName": "轻奢",
+			"childrenNode": [
+				{
+					"categoryName": "轻奢包袋",
+					"childrenNodeList": [
+						{
+							"categoryName": "MICHAEL KORS 迈克高仕"
+						}, {
+							"categoryName": "FURLA 芙拉"
+						}, {
+							"categoryName": "COACH 蔻驰"
+						}, {
+							"categoryName": "COCCINELLE"
+						}, {
+							"categoryName": "PINKO 品高"
+						}, {
+							"categoryName": "LONGCHAMP 珑骧"
+						}, {
+							"categoryName": "MARC JACOBS 马克雅克布"
+						}, {
+							"categoryName": "Kate Spade"
+						}, {
+							"categoryName": "Rebecca Minkoff"
+						}, {
+							"categoryName": "Tory Burch"
+						}
+					]
+				}, {
+					"categoryName": "重奢名包",
+					"childrenNodeList": [
+						{
+							"categoryName": "GUCCI 古驰"
+						}, {
+							"categoryName": "BURBERRY 博柏利"
+						}, {
+							"categoryName": "FENDI 芬迪"
+						}, {
+							"categoryName": "PRADA 普拉达"
+						}, {
+							"categoryName": "CÉLINE 思琳"
+						}, {
+							"categoryName": "SAINT LAURENT PARIS "
+						}, {
+							"categoryName": "Chloé 蔻依"
+						}, {
+							"categoryName": "D&G 杜嘉班纳"
+						}, {
+							"categoryName": "MARNI 玛尼"
+						}
+					]
+				}, {
+					"categoryName": "服饰鞋靴",
+					"childrenNodeList": [{
+							"categoryName": "KENZO 高田贤三"
+						}, {
+							"categoryName": "VERSACE 范思哲"
+						}, {
+							"categoryName": "BURBERRY 博柏利"
+						}, {
+							"categoryName": "MOSCHINO 莫斯奇诺"
+						}, {
+							"categoryName": "McQ 麦蔻"
+						}, {
+							"categoryName": "GUCCI 古驰"
+						}, {
+							"categoryName": "HUGO BOSS"
+						}
+					]
+				}, {
+					"categoryName": "功能箱包",
+					"childrenNodeList": [
+						{
+							"categoryName": "Samsonite 新秀丽"
+						}, {
+							"categoryName": "RIMOWA"
+						}, {
+							"categoryName": "旅行大师"
+						}, {
+							"categoryName": "TUMI 途明"
+						}
+					]
+				}, {
+					"categoryName": "腰带专区",
+					"childrenNodeList": [
+						{
+							"categoryName": "GUCCI 古驰"
+						}, {
+							"categoryName": " Ferragamo 菲拉格慕"
+						}, {
+							"categoryName": "MONTBLANC 万宝龙"
+						}, {
+							"categoryName": " Zegna 杰尼亚"
+						}, {
+							"categoryName": "COACH 蔻驰"
+						}, {
+							"categoryName": "VERSACE 范思哲"
+						}
+					]
+				}
+			]
+		},{
+			"bannerImageSrc": "iqrh4xrm15_244_100.jpg",
+			"brandList": [
+				{
+					"brandId": 1,
+					"logoPic": "1bteeon4j97_120_120.jpg",
+					"name": "Puritan's Pride 普丽普莱"
+				}, {
+					"brandId": 2,
+					"logoPic": "1ceqdbo4i20_120_120.jpg",
+					"name": "BLACKMORES 澳佳宝"
+				}, {
+					"brandId": 3,
+					"logoPic": "id59v9wn8.jpg",
+					"name": "Healthy Care"
+				}, {
+					"brandId": 4,
+					"logoPic": "ii7ckoej83_120_120.jpg",
+					"name": "Schiff"
+				}, {
+					"brandId": 5,
+					"logoPic": "ii7faa9k34_120_120.jpg",
+					"name": "Centrum 善存"
+				},{
+					"brandId": 6,
+					"logoPic": "ifzfvi7613_120_120.jpg",
+					"name": "Salus 莎露斯"
+				}
+			],
+			"categoryId": 1,
+			"categoryName": "营养保健",
+			"childrenNode": [
+				{
+					"categoryName": "男士必备",
+					"childrenNodeList": [
+						{
+							"categoryName": "增肌粉"
+						},{
+							"categoryName": "番茄红素"
+						}, {
+							"categoryName": "玛咖"
+						}, {
+							"categoryName": "护肝片"
+						}, {
+							"categoryName": "叶黄素"
+						}, {
+							"categoryName": "复合维矿"
+						}, {
+							"categoryName": "提高精力"
+						}, {
+							"categoryName": "缓解疲劳"
+						}, {
+							"categoryName": "解酒护肝"
+						}, {
+							"categoryName": "改善视力"
+						}, {
+							"categoryName": "舒缓压力"
+						}, {
+							"categoryName": "男士备孕"
+						}, {
+							"categoryName": "关节养护"
+						}, {
+							"categoryName": "清肺润喉"
+						}, {
+							"categoryName": "护发防脱"
+						}
+					]
+				},{
+					"categoryName": "关爱爸妈",
+					"childrenNodeList": [
+						{
+							"categoryName": "钙片"
+						}, {
+							"categoryName": "维骨力"
+						}, {
+							"categoryName": "鱼油/卵磷脂"
+						}, {
+							"categoryName": "辅酶Q10"
+						}, {
+							"categoryName": "参类滋补"
+						}, {
+							"categoryName": "银杏"
+						}, {
+							"categoryName": "蛋白粉"
+						}, {
+							"categoryName": "蜂胶"
+						}, {
+							"categoryName": "骨骼关节"
+						}, {
+							"categoryName": "风湿骨痛"
+						}, {
+							"categoryName": "心脑健康"
+						}, {
+							"categoryName": "血脂血压"
+						}, {
+							"categoryName": "调理肠胃"
+						}, {
+							"categoryName": "改善睡眠"
+						}, {
+							"categoryName": "调节免疫"
+						}, {
+							"categoryName": "改善记忆"
+						}
+					]
+				},{
+					"categoryName": "滋补养生",
+					"childrenNodeList": [
+						{    
+							"categoryName": "参类"
+						}, {
+							"categoryName": "蜂蜜"
+						}, {
+							"categoryName": "黑糖/红糖"
+						}, {
+							"categoryName": "养生茶"
+						}, {
+							"categoryName": "灵芝/石斛"
+						}, {
+							"categoryName": "滋补膏方"
+						}, {
+							"categoryName": "燕窝"
+						}, {
+							"categoryName": "枸杞/黑枸杞"
+						}, {
+							"categoryName": "阿胶"
+						}, {
+							"categoryName": "润肺养胃"
+						}, {
+							"categoryName": "补肾明目"
+						}, {
+							"categoryName": "美容养颜"
+						}, {
+							"categoryName": "提神醒脑"
+						}, {
+							"categoryName": "滋阴调胃"
+						}, {
+							"categoryName": "补血调经"
+						}
+					]
+				},{
+					"categoryName": "运动营养",
+					"childrenNodeList": [
+						{    
+							"categoryName": "纤体代餐/减脂瘦身"
+						}, {
+							"categoryName": "健身增肌"
+						}, {
+							"categoryName": "补充能量"
+						}, {
+							"categoryName": "提高耐力"
+						}, {
+							"categoryName": "训练恢复"
+						}, {
+							"categoryName": "滋补膏方"
+						}, {
+							"categoryName": "关节养护"
+						}
+					]
+				},{
+					"categoryName": "日常护理",
+					"childrenNodeList": [
+						{    
+							"categoryName": "眼部护理"
+						}, {
+							"categoryName": "鼻部护理"
+						}, {
+							"categoryName": "口腔护理"
+						}, {
+							"categoryName": "血压计"
+						}, {
+							"categoryName": "体温计"
+						}, {
+							"categoryName": "保健仪器"
+						}, {
+							"categoryName": "损伤护理"
+						}
+					]
+				}
+			]
+		},{
+			"bannerImageSrc": "iqmfaswb6_244_100.jpg",
+			"brandList": [
+				{
+					"brandId": 1,
+					"logoPic": "ii741aro99_120_120.jpg",
+					"name": "DEVONDALE 德运"
+				}, {
+					"brandId": 2,
+					"logoPic": "ii71r07a69_120_120.jpg",
+					"name": "ucc 悠诗诗"
+				}, {
+					"brandId": 3,
+					"logoPic": "ik69djvv98_120_120.jpg",
+					"name": "GILIM"
+				}, {
+					"brandId": 4,
+					"logoPic": "ii71rilz17_120_120.jpg",
+					"name": "马玉山"
+				}, {
+					"brandId": 5,
+					"logoPic": "id1sb1iq81.jpg",
+					"name": "illy 意利"
+				}, {
+					"brandId": 6,
+					"logoPic": "iiflp05q79_120_120.jpg",
+					"name": "OWL 猫头鹰"
+				}
+			],
+			"categoryName": "环球美食",
+			"childrenNode": [
+				{
+					"categoryName": "乳品/咖啡/麦片/冲饮",
+					"childrenNodeList": [
+						{
+							"categoryName": "成人奶粉"
+						}, {
+							"categoryName": "奶片"
+						}, {
+							"categoryName": "进口牛奶"
+						}, {
+							"categoryName": "酸奶"
+						}, {
+							"categoryName": "其他乳品"
+						}, {
+							"categoryName": "麦片"
+						}, {
+							"categoryName": "五谷冲饮"
+						}, {
+							"categoryName": "热可可"
+						}, {
+							"categoryName": "其他冲饮"
+						}, {
+							"categoryName": "速溶咖啡"
+						}, {
+							"categoryName": "咖啡粉"
+						}, {
+							"categoryName": "咖啡豆"
+						}, {
+							"categoryName": "胶囊咖啡"
+						}, {
+							"categoryName": "咖啡伴侣"
+						}
+					]
+				}, {
+					"categoryName": "人气热门",
+					"childrenNodeList": [
+						{
+							"categoryName": "德运"
+						}, {
+							"categoryName": "丸太拉面"
+						}, {
+							"categoryName": "UCC咖啡"
+						}, {
+							"categoryName": "轩尼诗"
+						}, {
+							"categoryName": "成人奶粉"
+						}, {
+							"categoryName": "可乐"
+						}, {
+							"categoryName": "早餐麦片"
+						}, {
+							"categoryName": "歌帝梵"
+						}, {
+							"categoryName": "卡乐比"
+						}, {
+							"categoryName": "巴黎水"
+						}
+					]
+				}, {
+					"categoryName": "休闲零食",
+					"childrenNodeList": [
+						{
+							"categoryName": "饼干糕点"
+						}, {
+							"categoryName": "坚果"
+						}, {
+							"categoryName": "糕点"
+						}, {
+							"categoryName": "蜜饯果干"
+						}, {
+							"categoryName": "糖果巧克力"
+						}, {
+							"categoryName": "口香糖"
+						}, {
+							"categoryName": "薯片/膨化"
+						}, {
+							"categoryName": "海产品"
+						}, {
+							"categoryName": "果冻布丁"
+						}, {
+							"categoryName": "肉脯干"
+						}, {
+							"categoryName": "其他零食"
+						}
+					]
+				}, {
+					"categoryName": "茶/酒/饮料",
+					"childrenNodeList": [{
+							"categoryName": "葡萄酒"
+						}, {
+							"categoryName": "洋酒"
+						}, {
+							"categoryName": "白酒"
+						}, {
+							"categoryName": "啤酒"
+						}, {
+							"categoryName": "黄酒"
+						}, {
+							"categoryName": "品质水饮"
+						}, {
+							"categoryName": "饮料"
+						}, {
+							"categoryName": "碳酸饮料"
+						}, {
+							"categoryName": "果蔬汁"
+						}, {
+							"categoryName": "花草茶"
+						}, {
+							"categoryName": "茶饮"
+						}, {
+							"categoryName": "果酒"
+						}
+					]
+				}, {
+					"categoryName": "水果生鲜",
+					"childrenNodeList": [
+						{
+							"categoryName": "新鲜水果"
+						}, {
+							"categoryName": "肉品禽蛋"
+						}, {
+							"categoryName": "水产生鲜"
+						}, {
+							"categoryName": "速冻水产"
+						}, {
+							"categoryName": "牛油果"
+						}, {
+							"categoryName": "苹果"
+						}, {
+							"categoryName": "蔬菜"
+						}, {
+							"categoryName": "车厘子"
+						}, {
+							"categoryName": "牛排"
+						}, {
+							"categoryName": "三文鱼"
+						}, {
+							"categoryName": "橙子"
+						}, {
+							"categoryName": "火锅食材"
+						}
+					]
+				}, {
+					"categoryName": "粮油副食",
+					"childrenNodeList": [
+						{
+							"categoryName": "调味品/料理"
+						}, {
+							"categoryName": "果酱/酱料"
+						}, {
+							"categoryName": "食用油/橄榄油"
+						}, {
+							"categoryName": "泡面"
+						}, {
+							"categoryName": "方便速食"
+						}, {
+							"categoryName": "罐头"
+						}, {
+							"categoryName": "方便菜"
+						}, {
+							"categoryName": "米面杂粮"
+						}, {
+							"categoryName": "南北干货"
+						}, {
+							"categoryName": "端午粽子"
+						}
+					]
+				}
+			]
+		},{
+			"bannerImageSrc": "iqmfbh3y97_244_100.jpg",
+			"brandList": [
+				{
+					"logoPic": "id2q3etz98.jpg",
+					"name": "MICHAEL KORS 迈克高仕"
+				}, {
+					"logoPic": "id1tosf320.jpg",
+					"name": "COACH 蔻驰"
+				}, {
+					"logoPic": "id2fm4ms50.jpg",
+					"name": "FURLA 芙拉"
+				}, {
+					"logoPic": "ii8tv4yk15_120_120.jpg",
+					"name": "BURBERRY 博柏利"
+				}, {
+					"logoPic": "id2pp8658.jpg",
+					"name": "Salvatore Ferragamo 菲拉格慕"
+				}, {
+					"logoPic": "ibxec5al87.jpg",
+					"name": "BOTTEGA VENETA 葆蝶家"
+				}
+			],
+			"categoryName": "轻奢",
+			"childrenNode": [
+				{
+					"categoryName": "轻奢包袋",
+					"childrenNodeList": [
+						{
+							"categoryName": "MICHAEL KORS 迈克高仕"
+						}, {
+							"categoryName": "FURLA 芙拉"
+						}, {
+							"categoryName": "COACH 蔻驰"
+						}, {
+							"categoryName": "COCCINELLE"
+						}, {
+							"categoryName": "PINKO 品高"
+						}, {
+							"categoryName": "LONGCHAMP 珑骧"
+						}, {
+							"categoryName": "MARC JACOBS 马克雅克布"
+						}, {
+							"categoryName": "Kate Spade"
+						}, {
+							"categoryName": "Rebecca Minkoff"
+						}, {
+							"categoryName": "Tory Burch"
+						}
+					]
+				}, {
+					"categoryName": "重奢名包",
+					"childrenNodeList": [
+						{
+							"categoryName": "GUCCI 古驰"
+						}, {
+							"categoryName": "BURBERRY 博柏利"
+						}, {
+							"categoryName": "FENDI 芬迪"
+						}, {
+							"categoryName": "PRADA 普拉达"
+						}, {
+							"categoryName": "CÉLINE 思琳"
+						}, {
+							"categoryName": "SAINT LAURENT PARIS "
+						}, {
+							"categoryName": "Chloé 蔻依"
+						}, {
+							"categoryName": "D&G 杜嘉班纳"
+						}, {
+							"categoryName": "MARNI 玛尼"
+						}
+					]
+				}, {
+					"categoryName": "服饰鞋靴",
+					"childrenNodeList": [{
+							"categoryName": "KENZO 高田贤三"
+						}, {
+							"categoryName": "VERSACE 范思哲"
+						}, {
+							"categoryName": "BURBERRY 博柏利"
+						}, {
+							"categoryName": "MOSCHINO 莫斯奇诺"
+						}, {
+							"categoryName": "McQ 麦蔻"
+						}, {
+							"categoryName": "GUCCI 古驰"
+						}, {
+							"categoryName": "HUGO BOSS"
+						}
+					]
+				}, {
+					"categoryName": "功能箱包",
+					"childrenNodeList": [
+						{
+							"categoryName": "Samsonite 新秀丽"
+						}, {
+							"categoryName": "RIMOWA"
+						}, {
+							"categoryName": "旅行大师"
+						}, {
+							"categoryName": "TUMI 途明"
+						}
+					]
+				}, {
+					"categoryName": "腰带专区",
+					"childrenNodeList": [
+						{
+							"categoryName": "GUCCI 古驰"
+						}, {
+							"categoryName": " Ferragamo 菲拉格慕"
+						}, {
+							"categoryName": "MONTBLANC 万宝龙"
+						}, {
+							"categoryName": " Zegna 杰尼亚"
+						}, {
+							"categoryName": "COACH 蔻驰"
+						}, {
+							"categoryName": "VERSACE 范思哲"
+						}
+					]
+				}
+			]
+		}
+	]
+}

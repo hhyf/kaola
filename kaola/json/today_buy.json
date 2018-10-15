@@ -1,0 +1,41 @@
+{
+	"flashSaleFloor": {
+		"imgUrl": "1cetc1p0c60_260_380.png",
+		"mainTilte": "今日限时购",
+		"onSaleGoodsList": [
+			{
+				"imageUrl": "07a1cc58-8047-4706-bdde-939a164886b8.jpg",
+				"introduce": "拼纱设计，防震美背",
+				"marketPrice": 115,
+				"miaoshaPrice": 58.5,
+				"salesAmount": 1203,
+				"sale" : 450,
+				"shortTitle": "【运动达人/陈暖央同款】瑜伽运动内衣防震跑步健身无钢圈背心式文胸"
+			}, {
+				"imageUrl": "9c4a7c8a-9dbb-494b-b9df-92cb3542c78e.jpg",
+				"introduce": "软皮平底单鞋豆豆鞋子女鞋",
+				"marketPrice": 898,
+				"miaoshaPrice": 299,
+				"salesAmount": 1000,
+				"sale" : 789,
+				"shortTitle": "Everugg澳洲雪地靴品牌 2018秋冬季新款雪地靴女鞋子软皮平底低帮豆豆鞋女鞋子男女同款11631"
+			}, {
+				"imageUrl": "8f90367abd71439cad5fdb8970ff41c61536644692355jlxakoz311757.jpg",
+				"introduce": "休闲板鞋，百搭单品",
+				"marketPrice": 569,
+				"miaoshaPrice": 329,
+				"salesAmount": 529,
+				"sale" : 340,
+				"shortTitle": "Adidas 阿迪达斯NEO男女鞋运动休闲鞋 F99252"
+			}, {
+				"imageUrl": "5fc27001852e4e8f899163920f3275581526629704956jhbnwr8m13916.jpg",
+				"introduce": "休闲舒适小白鞋",
+				"marketPrice": 569,
+				"miaoshaPrice": 279,
+				"salesAmount": 460,
+				"sale" : 390,
+				"shortTitle": "ADIDAS阿迪达斯VS ADVANTAGE CLEAN CM男女款小白鞋"
+			}
+		]
+	}
+}

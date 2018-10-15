@@ -1,0 +1,255 @@
+@charset "UTF-8";
+body, ul, li, dl, dt, dd, p, figure, ol, h1, h2, h3, h4, h5, h6, form, img, table, fieldset, legend {
+  margin: 0;
+  padding: 0; }
+
+ul, li, ol {
+  list-style: none; }
+
+img, fieldset {
+  border: 0; }
+
+img {
+  display: block; }
+
+a {
+  text-decoration: none;
+  color: #333; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 100; }
+
+body {
+  font-family: "微软雅黑"; }
+
+input, a {
+  outline: none; }
+
+#header {
+  height: 100px;
+  background: #fff;
+  position: relative;
+  margin: 0 auto;
+  width: 1000px; }
+  #header .header_left {
+    position: absolute;
+    left: 0;
+    top: 20px;
+    width: 330px;
+    height: 65px;
+    line-height: 65px;
+    cursor: pointer; }
+  #header .header_right {
+    float: right; }
+
+#footer {
+  height: 115px;
+  margin: 0 auto;
+  width: 1000px;
+  padding: 20px 0;
+  position: relative;
+  background: #fff;
+  line-height: 26px;
+  text-align: center;
+  font-size: 12px;
+  color: #999; }
+  #footer a {
+    color: #666; }
+  #footer .sep {
+    margin: 0 20px; }
+  #footer .f_link {
+    margin-left: 20px; }
+  #footer .foot_bot {
+    height: 30px;
+    text-align: center;
+    margin-top: 5px; }
+    #footer .foot_bot img {
+      height: 30px;
+      display: inline-block; }
+
+#main1 {
+  height: 520px;
+  background: #f8f8f8;
+  margin: 0 auto;
+  width: 1000px; }
+  #main1 .main_img {
+    display: block;
+    float: left;
+    margin-left: 10px;
+    margin-top: 154px;
+    width: 400px;
+    height: 203px; }
+  #main1 .login {
+    margin-right: 40px;
+    margin-top: 48px;
+    width: 350px;
+    min-height: 323px;
+    float: right;
+    border: 1px solid #eaeaea;
+    background-color: #fff; }
+    #main1 .login .top {
+      height: 53px;
+      width: 350px;
+      border-bottom: 1px solid #ddd;
+      font-size: 16px;
+      line-height: 52px;
+      color: #333;
+      text-align: center;
+      cursor: pointer; }
+      #main1 .login .top .top_left {
+        float: left;
+        width: 50%;
+        background-color: #f8f8f8;
+        height: 53px; }
+        #main1 .login .top .top_left .span_1 {
+          float: right;
+          height: 53px;
+          line-height: 53px;
+          color: #ddd; }
+      #main1 .login .top .red {
+        color: #e31436; }
+      #main1 .login .top .top_right {
+        float: right;
+        width: 50%;
+        background-color: #f8f8f8;
+        height: 53px; }
+    #main1 .login .login_box_phone, #main1 .login .login_box_email {
+      background-color: #fff;
+      box-sizing: border-box;
+      padding: 0 40px 15px; }
+      #main1 .login .login_box_phone form, #main1 .login .login_box_email form {
+        width: 270px;
+        height: 270px;
+        padding-top: 20px; }
+        #main1 .login .login_box_phone form .span_code, #main1 .login .login_box_email form .span_code {
+          height: 24px;
+          display: block;
+          text-align: right;
+          color: #666666;
+          font-size: 12px;
+          cursor: pointer; }
+          #main1 .login .login_box_phone form .span_code:hover, #main1 .login .login_box_email form .span_code:hover {
+            color: red; }
+      #main1 .login .login_box_phone form div, #main1 .login .login_box_email form div {
+        width: 270px;
+        margin: 0 auto;
+        border: 1px solid #d5d5d5;
+        border-right: 1px solid #d5d5d5;
+        margin-bottom: 16px;
+        box-sizing: border-box; }
+        #main1 .login .login_box_phone form div input, #main1 .login .login_box_email form div input {
+          width: 266px;
+          height: 34px;
+          line-height: 34px;
+          font-size: 12px;
+          border: none; }
+      #main1 .login .login_box_phone .slide, #main1 .login .login_box_email .slide {
+        width: 270px;
+        height: 28px;
+        border-radius: 14px;
+        background: #eee;
+        font-size: 12px;
+        line-height: 28px; }
+        #main1 .login .login_box_phone .slide .mark, #main1 .login .login_box_email .slide .mark {
+          width: 60px;
+          height: 26px;
+          float: left; }
+          #main1 .login .login_box_phone .slide .mark img, #main1 .login .login_box_email .slide .mark img {
+            height: 26px; }
+        #main1 .login .login_box_phone .slide .slide_word, #main1 .login .login_box_email .slide .slide_word {
+          width: 268px;
+          height: 28px;
+          text-align: center;
+          display: block; }
+      #main1 .login .login_box_phone .sub, #main1 .login .login_box_email .sub {
+        height: 36px;
+        background-color: #e31436;
+        color: #fff;
+        border-radius: 2px;
+        line-height: 36px;
+        font-size: 14px;
+        border: none;
+        width: 270px;
+        height: 36px; }
+      #main1 .login .login_box_phone .box, #main1 .login .login_box_email .box {
+        padding-top: 4px;
+        width: 14px;
+        height: 14px;
+        margin-top: 14px; }
+      #main1 .login .login_box_phone .validate, #main1 .login .login_box_email .validate {
+        overflow: hidden; }
+      #main1 .login .login_box_phone .txt, #main1 .login .login_box_email .txt {
+        height: 30px;
+        line-height: 30px;
+        font-size: 14px;
+        width: 130px;
+        padding-left: 8px;
+        float: left;
+        border: none; }
+      #main1 .login .login_box_phone .btn, #main1 .login .login_box_email .btn {
+        float: right;
+        height: 34px;
+        width: 96px;
+        line-height: 32px;
+        background-color: #eee;
+        color: #333;
+        border: none;
+        border-left: 1px solid #d5d5d5; }
+      #main1 .login .login_box_phone .span_left, #main1 .login .login_box_email .span_left {
+        font-size: 12px; }
+      #main1 .login .login_box_phone .span_right, #main1 .login .login_box_email .span_right {
+        font-size: 12px;
+        float: right;
+        margin-top: 15px; }
+        #main1 .login .login_box_phone .span_right a, #main1 .login .login_box_email .span_right a {
+          color: #333; }
+    #main1 .login .login_box_email {
+      height: 230px;
+      display: none; }
+    #main1 .login .login_box_phone {
+      display: block; }
+  #main1 .bottom_reg {
+    height: 41px;
+    width: 350px;
+    padding: 10px 40px;
+    border: 1px solid #ddd;
+    background: #f8f8f8;
+    font-size: 14px;
+    box-sizing: border-box; }
+    #main1 .bottom_reg .reg_list {
+      width: 160px;
+      height: 22px;
+      float: left; }
+      #main1 .bottom_reg .reg_list li {
+        float: left;
+        margin-right: 10px; }
+        #main1 .bottom_reg .reg_list li a {
+          display: block;
+          width: 22px;
+          height: 22px;
+          background-image: url(../img/loginimg/icon1.png); }
+      #main1 .bottom_reg .reg_list li:nth-of-type(1) a {
+        background-position: -760px -401px; }
+      #main1 .bottom_reg .reg_list li:nth-of-type(2) a {
+        background-position: -792px -401px; }
+      #main1 .bottom_reg .reg_list li:nth-of-type(3) a {
+        background-position: -824px -401px; }
+      #main1 .bottom_reg .reg_list li:nth-of-type(4) a {
+        background-position: -856px -401px; }
+    #main1 .bottom_reg .bottom_register {
+      float: right;
+      width: 105px;
+      height: 22px; }
+      #main1 .bottom_reg .bottom_register .reg_i {
+        display: block;
+        float: right;
+        width: 16px;
+        height: 16px;
+        border-radius: 50%;
+        text-align: center;
+        line-height: 12px;
+        background: #E31436;
+        color: #fff;
+        font-style: normal; }
+
+/*# sourceMappingURL=login.css.map */

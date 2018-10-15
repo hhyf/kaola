@@ -1,0 +1,233 @@
+@charset "utf-8";
+@import "public";
+
+@mixin pub{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+#main1{
+    height: 520px;
+    background: #f8f8f8;
+    @include pub;
+    .main_img{
+        display: block;
+        float: left;
+        margin-left: 10px;
+        margin-top: 154px;
+        width: 400px;
+        height: 203px;
+    }
+    .login{
+        margin-right: 40px;
+        margin-top: 48px;
+        width: 350px;
+        min-height: 323px;
+        float: right;
+        
+//      box-sizing: border-box;
+        border: 1px solid #eaeaea;
+        background-color: #fff;
+        .top{
+            height: 53px;
+            width: 350px;
+            border-bottom: 1px solid #ddd;
+            font-size: 16px;
+            line-height: 52px;
+            color: #333;
+            text-align: center;
+            cursor: pointer;
+            .top_left{
+                float: left;
+                width: 50%;
+                background-color: #f8f8f8;
+                height: 53px;
+                .span_1{
+                    float: right;
+                    height: 53px;
+                    line-height: 53px;
+                    color: #ddd;
+                }
+            }
+            .red{
+                color: #e31436;
+            }
+            .top_right{
+                float: right;
+                width: 50%;
+                background-color: #f8f8f8;
+                height: 53px;
+            }
+        }
+        .login_box_phone,.login_box_email{
+            background-color: #fff;
+            box-sizing: border-box;
+            padding: 0 40px 15px;
+            form{
+                width: 270px;
+                height: 270px;
+                padding-top: 20px;
+                .span_code{
+                    height: 24px;
+                    display: block;
+                    text-align: right;
+                    color: rgb(102, 102, 102);
+                    font-size: 12px;
+                    cursor:pointer;
+                    &:hover{
+                        color: red;
+                    }
+                }
+            }
+            form div{
+                width: 270px;
+                margin: 0 auto; 
+                border: 1px solid #d5d5d5;
+                border-right: 1px solid #d5d5d5;
+                margin-bottom: 16px;
+                box-sizing: border-box;
+                input{
+                    width: 266px;
+                    height: 34px;
+                    line-height: 34px;
+                    font-size: 12px;
+                    border: none;
+                }
+                
+            }
+            .slide{
+                    width: 270px;
+                    height:28px;
+                    border-radius: 14px;
+                    background: #eee;
+                    font-size: 12px;
+                    line-height: 28px;
+                    .mark{
+                        width: 60px;
+                        height: 26px;
+                        float: left;
+                        img{
+                            height: 26px;
+                        }
+                    }
+                    .slide_word{
+                        width: 268px;
+                        height: 28px;
+                        text-align: center;
+                        display: block;
+                    }
+                }
+            .sub{
+                    height: 36px;
+                    background-color: #e31436;
+                    color: #fff;
+                    border-radius: 2px;
+                    line-height: 36px;
+                    font-size: 14px;
+                    border: none;
+                    width: 270px;
+                    height: 36px;
+                }
+            .box{
+                padding-top: 4px;
+                width: 14px;
+                height: 14px;
+                margin-top: 14px;
+            }
+            .validate{
+                overflow: hidden;
+            }
+            .txt{
+                height: 30px;
+                line-height: 30px;
+                font-size: 14px;
+                width: 130px;
+                padding-left: 8px;
+                float: left;
+                border: none;
+            }
+            .btn{
+                float: right;
+                height: 34px;
+                width: 96px;
+                line-height: 32px;
+                background-color: #eee;
+                color: #333;
+                border: none;
+                border-left:  1px solid #d5d5d5 ;
+            }
+            .span_left{
+                font-size: 12px;
+            }
+            .span_right{
+                font-size: 12px;
+                float: right;
+                margin-top: 15px;
+                a{
+                    color: #333;;
+                }
+            }
+        }
+        .login_box_email{
+            height: 230px;
+            display: none;
+        }
+        .login_box_phone{
+            display: block;
+        }
+    }
+    .bottom_reg{
+        height: 41px;
+        width: 350px;
+        padding: 10px 40px;
+        border: 1px solid #ddd;
+        background: #f8f8f8;
+        font-size: 14px;
+        box-sizing: border-box;
+        .reg_list{
+            width: 160px;
+            height: 22px;
+            float: left;
+            li{
+                float: left;
+                margin-right: 10px;
+                a{
+                    display: block;
+                    width: 22px;
+                    height: 22px;
+                    background-image: url(../img/loginimg/icon1.png);
+                }
+                
+            }
+            li:nth-of-type(1) a{
+                background-position:-760px -401px;
+            }
+            li:nth-of-type(2) a{
+                background-position: -792px -401px;
+            }
+            li:nth-of-type(3) a{
+                background-position:-824px -401px;
+            }
+            li:nth-of-type(4) a{
+                background-position:-856px -401px;
+            }
+        }
+        .bottom_register{
+            float: right;
+            width: 105px;
+            height: 22px;
+            .reg_i{
+                display: block;
+                float: right;
+                width: 16px;
+                height: 16px;
+                border-radius: 50%;
+                text-align: center;
+                line-height: 12px;
+                background: #E31436;
+                color: #fff;
+                font-style: normal;
+            }
+        }
+    }
+}

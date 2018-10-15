@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="css/login.css"/>
+	</head>
+	<body>
+		<div id="header">
+			<div class="header_left">
+				<img src="img/loginimg/70dee793-133d-4628-b374-b99e29aad157.png"/>
+			</div>
+			<div class="header_right">
+				<img src="img/loginimg/c5bc5b4005c9413888f7d1127a734609.jpg"/>
+			</div>
+		</div>
+		<div id="main1">
+			<a href="javascript:;" class='main_img'>
+				<img src="img/loginimg/18cc14f7f9b94b1ebac54679f569d7d2.png"/>
+			</a>
+			<div class="login">
+				<div class="top">
+					<div class="top_left red">
+						手机登录
+						<span class="span_1">|</span>
+					</div>
+					<div class="top_right">
+						邮箱登录
+					</div>
+				</div>
+				<div class="login_box_phone">
+					<form>
+						<span class="span_code">
+							使用密码验证登录
+						</span>
+						<div class='phone'>
+							<input type="text" value="请输入手机号" />
+						</div>
+						<div class='slide'>
+							<span class="mark">
+								<img src="img/loginimg/slider.png" />
+							</span>
+							<span class="slide_word">
+								按住滑块，完成上方拼图
+							</span>
+						</div>
+						<div class='validate'>
+							<input type="text" class="txt" value='请输入短信验证码' />
+							<button class="btn">获取短信验证码</button>
+						</div>
+						<input type="submit" class='sub' value="登录"/>
+						<input type="checkbox" class='box' checked="checked"/>
+						<span class="span_left">10天免登陆</span>
+						<span class="span_right"><a href='javascript:;'>遇到问题？</a></span>
+					</form>
+				</div>
+				<div class="login_box_email">
+					<form>
+						<div class='phone'>
+							<input type="text" value="网易邮箱帐号" />
+						</div>
+						<div class='validate'>
+							<input type="text" class="txt" value='请输入短信验证码' />
+						</div>
+						<input type="submit" class='sub' value="登录"/>
+						<input type="checkbox" class='box' checked="checked"/>
+						<span class="span_left">10天免登陆</span>
+						<span class="span_right"><a href='javascript:;'>遇到问题？</a></span>
+					</form>
+				</div>
+				<div class="bottom_reg">
+					<ul class="reg_list">
+						<li><a href="javascript:;"></a></li>
+						<li><a href="javascript:;"></a></li>
+						<li><a href="javascript:;"></a></li>
+						<li><a href="javascript:;"></a></li>
+					</ul>
+					<span class="bottom_register"><a href="javascript:;">手机快捷注册<i class="reg_i">&gt;</i></a></span>
+				</div>
+			</div>
+		</div>
+		<div id="footer">
+			<a href="javascript:;">About NetEase</a> <span class="sep">|</span> <a  href="javascript:;">公司简介</a> <span class="sep">|</span> <a  href="javascript:;">联系方法</a> <span class="sep">|</span> <a  href="javascript:;">友情链接</a><span class="sep">|</span> <a  href="javascript:;">招聘信息</a> <span class="sep">|</span> <a  href="javascript:;">客户服务</a> <span class="sep">|</span> <a  href="javascript:;">隐私政策</a> <span class="sep">|</span> <a  href="javascript:;">网络营销</a> <span class="sep">|</span> <a  href="javascript:;">网易考拉</a><br>
+			<span class="f_link">网络文化经营许可证：浙网文[2016]0155-055号</span>
+			<span class="f_link">增值电信业务经营许可证：浙B2-20160288</span>
+			<span class="f_link"><a href="javascript:;">自营经营者信息</a></span>
+			<span class="f_link">（浙）网械平台备字[2018]第00007号</span><br>
+			<span style="margin: 0px 0px 0px 5px;">浙公网安备 33010802002216号</span>
+			<span class="f_link">网易公司版权所有©1997-2018</span>
+			<span style="margin: 0px 0px 0px 20px;">互联网药品信息服务资格证书编号（浙）-2017-0027</span>
+			<span class="f_link">浙ICP备16011229号-6</span>
+			<div class="foot_bot">
+				<a href="javascript:;">
+					<img src="img/indeximg/d720d83b55a04b6f932ea845c673c5bf.png" />
+				</a>
+				<a href="javascript:;">
+					<img src="img/indeximg/d071c0de-5360-4dcb-915a-f9f9bb62a9d5.gif" />
+				</a>
+			</div>
+		</div>
+	</body>
+	<script src='js/jquery.min.js'></script>
+	<script type="text/javascript">
+		$('.top_left').click(function(){
+			$('.login_box_email').css('display','none');
+			$('.login_box_phone').css('display','block');
+			$(this).addClass('red').siblings().removeClass('red');
+		})
+		$('.top_right').click(function(){
+			$('.login_box_email').css('display','block');
+			$('.login_box_phone').css('display','none');
+			$(this).addClass('red').siblings().removeClass('red');
+		})
+	</script>
+</html>
